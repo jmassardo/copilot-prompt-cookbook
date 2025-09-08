@@ -1,0 +1,1 @@
+Update the documentation for this TypeScript method. The function name doesn't match what it actually does, and the documentation needs to be corrected.

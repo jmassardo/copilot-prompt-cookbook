@@ -1,0 +1,1 @@
+Create mock objects for testing this SvelteKit service layer code. I need to isolate the service from external dependencies.
