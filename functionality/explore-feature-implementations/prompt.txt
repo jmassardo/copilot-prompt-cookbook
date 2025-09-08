@@ -1,0 +1,1 @@
+I need to implement a "Recent Items" section for the user dashboard. Help me design an efficient solution that displays the 10 most recently accessed items while maintaining good performance.

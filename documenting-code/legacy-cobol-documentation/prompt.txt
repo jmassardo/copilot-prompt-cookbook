@@ -1,0 +1,1 @@
+Help me understand and document this legacy COBOL program. Add comments explaining what each section does and modernize the documentation.

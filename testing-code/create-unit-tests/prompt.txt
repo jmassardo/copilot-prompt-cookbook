@@ -1,0 +1,1 @@
+Create comprehensive unit tests for this price validation function to ensure it handles all edge cases properly.

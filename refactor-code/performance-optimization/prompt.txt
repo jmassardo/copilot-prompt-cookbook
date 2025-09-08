@@ -1,0 +1,1 @@
+Optimize this Python code for better performance. The prime number calculation is very slow and needs to be improved.
